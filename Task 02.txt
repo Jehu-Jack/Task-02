@@ -1,0 +1,11 @@
+Task Day 02
+
+  1.write a blog on the Difference between document & window objects?
+
+        The Document object represents the content and structure of the current web page, 
+        while the Window object represents the browser window or tab itself. The Document 
+        object is limited to the content of the current web page and is accessed using the
+        document property, while the Window object encompasses the entire browser window or
+        tab and is accessed using the window property or the global object window. Changes
+        made to the Document object only affect the current web page,while changes made to 
+        the Window object can impact the entire window or tab.
